@@ -6,7 +6,10 @@ let email = "sabapailodze2004@gmail.com";
 let number = 568876542;
 let age = 21;
 let hobby = "Dancing";
-const isStudent = true;
+
+// let isStudent = prompt("are you student?");
+let isStudent = true;
+
 // changed variables//
 hobby = "reading";
 age = age + 1;
@@ -17,6 +20,7 @@ console.log("Email: " + email);
 console.log("Number: " + number);
 console.log("Age: " + age);
 console.log("Hobby: " + hobby);
+console.log("Is Student: " + isStudent);
 // updated valiue section//
 console.log("Updated age: " + age);
 console.log("Updated hobby: " + hobby);
